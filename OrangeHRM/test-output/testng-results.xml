@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T07:58:17 IST" name="Default suite" finished-at="2024-10-28T07:58:26 IST" duration-ms="9355">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T07:58:17 IST" name="Default test" finished-at="2024-10-28T07:58:26 IST" duration-ms="9355">
+      <class name="Tests.TC_3_LoginAndLogoutTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:15 IST" name="launchBrowser" finished-at="2024-10-28T07:58:17 IST" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:17 IST" name="launchURL" finished-at="2024-10-28T07:58:20 IST" duration-ms="3405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:20 IST" name="waiting" finished-at="2024-10-28T07:58:20 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="enterUsername()[pri:1, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:20 IST" name="enterUsername" finished-at="2024-10-28T07:58:21 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUsername -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting1" finished-at="2024-10-28T07:58:21 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting" finished-at="2024-10-28T07:58:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="enterPassword()[pri:2, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="enterPassword" finished-at="2024-10-28T07:58:21 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting1" finished-at="2024-10-28T07:58:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting" finished-at="2024-10-28T07:58:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="clickLogin()[pri:3, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="clickLogin" finished-at="2024-10-28T07:58:21 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogin -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting1" finished-at="2024-10-28T07:58:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="waiting" finished-at="2024-10-28T07:58:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="clickUserDropdown()[pri:4, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:21 IST" name="clickUserDropdown" finished-at="2024-10-28T07:58:23 IST" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUserDropdown -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:23 IST" name="waiting1" finished-at="2024-10-28T07:58:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:23 IST" name="waiting" finished-at="2024-10-28T07:58:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="clickLogoutTab()[pri:5, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:23 IST" name="clickLogoutTab" finished-at="2024-10-28T07:58:26 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogoutTab -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:26 IST" name="waiting1" finished-at="2024-10-28T07:58:26 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.TC_3_LoginAndLogoutTest@302552ec]" started-at="2024-10-28T07:58:26 IST" name="closeBrowser" finished-at="2024-10-28T07:58:26 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.TC_3_LoginAndLogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
