@@ -3,16 +3,20 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestNgAssertions.SoftAssertion_Example2">
+      <class name="Tests.TC_1_LoginTest">
         <methods>
-          <include name="verifyTite"/>
-          <include name="launchBrowser"/>
-          <include name="waiting"/>
-          <include name="closeBrowser"/>
           <include name="waiting1"/>
+          <include name="verifyForgotYourPasswordLink"/>
+          <include name="verifyLogoIcon"/>
+          <include name="enterPassword"/>
           <include name="launchURL"/>
+          <include name="launchBrowser"/>
+          <include name="enterUsername"/>
+          <include name="waiting"/>
+          <include name="clickLogin"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- TestNgAssertions.SoftAssertion_Example2 -->
+      </class> <!-- Tests.TC_1_LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

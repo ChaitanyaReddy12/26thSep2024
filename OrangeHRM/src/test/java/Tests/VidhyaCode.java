@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import BaseOrCommon.BaseOrCommonClass;
 import Pages.LoginPage;
 
-public class TC_1_LoginTest  extends BaseOrCommonClass {
+public class VidhyaCode  extends BaseOrCommonClass {
 		
 	LoginPage lp;
 
